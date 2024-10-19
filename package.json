@@ -7,7 +7,7 @@
    "dev":"pnpm --filter @lin-ui/play dev",
    "docs:dev":"pnpm --filter @lin-ui/docs dev",
    "docs:build":"pnpm --filter @lin-ui/docs build",
-   "test":"echo 'todo'"
+   "test":"pnpm --filter @lin-ui/components test"
    
   },
   "keywords": [],

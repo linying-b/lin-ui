@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <ln-button />
+  <ln-button type="primary" size="small">test</ln-button>
 </template>
 <style scoped>
 .logo {
