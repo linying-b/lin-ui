@@ -6,9 +6,7 @@
   "scripts": {
    "dev":"pnpm --filter @lin-ui/play dev",
    "docs:dev":"pnpm --filter @lin-ui/docs dev",
-   "docs:build":"pnpm --filter @lin-ui/docs build",
-   "test":"pnpm --filter @lin-ui/components test"
-   
+   "docs:build":"pnpm --filter @lin-ui/docs build"
   },
   "keywords": [],
   "author": "",

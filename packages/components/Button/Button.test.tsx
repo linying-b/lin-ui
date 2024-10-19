@@ -1,3 +1,5 @@
+  //  "test":"pnpm --filter @lin-ui/components test"
+
 // import { describe, it, expect } from "vitest";
 // import { mount } from "@vue/test-utils";
 
